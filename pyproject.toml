@@ -13,6 +13,7 @@ dependencies = [
   "pyarrow>=15.0",
   "polars>=1.0",
   "duckdb>=1.0",
+  "matplotlib>=3.9",
 ]
 
 [project.optional-dependencies]
